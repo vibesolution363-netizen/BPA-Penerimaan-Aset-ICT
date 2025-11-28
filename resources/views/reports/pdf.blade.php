@@ -2,6 +2,7 @@
 <html>
 <head>
     <meta charset="utf-8">
+    <link rel="icon" type="image/svg+xml" href="{{ asset('images/BPA Logo Transperants.svg') }}">
     <title>Laporan Penerima Sewaan Komputer Riba/Peribadi/AiO - {{ date('d/m/Y') }}</title>
     <style>
         * {
